@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Easy",
+    "description": [
+      "Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy Easy"
+    ],
+    "iconSrc": ""
+  },
+  {
+    "name": "Intermediate",
+    "description": [
+      "Intermediate Intermediate Intermediate Intermediate Intermediate Intermediate Intermediate Intermediate Intermediate Intermediate Intermediate Intermediate Intermediate Intermediate Intermediate Intermediate Intermediate Intermediate Intermediate Intermediate"
+    ],
+    "iconSrc": ""
+  },
+  {
+    "name": "Hard",
+    "description": [
+      "Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard Hard"
+    ],
+    "iconSrc": ""
+  }
+]

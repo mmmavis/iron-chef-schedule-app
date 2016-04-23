@@ -1,0 +1,47 @@
+body {
+  background: #D7D7D9;
+}
+
+nav {
+  background: #75D087;
+}
+
+#schedule-controls a {
+  background: #ADADB1;
+  border-color: #D7D7D9;
+}
+
+#schedule-controls a.active {
+  background: #2E9479;
+}
+
+h2,
+.schedule-tab h3 span, 
+.page-caption h3 span,
+.schedule-tab h3 .fa,
+a.page-control {
+  background: #D7D7D9;
+  color: #2E9479;
+}
+
+#page-links a.active {
+  color: #2E9479;
+}
+
+.schedule-tab h3::before, 
+.page-caption h3::before {
+  border-color: #2E9479;
+}
+
+.logo .fa {
+  color: #FFF;
+  font-size: 50px;
+  margin-top: 5px;
+}
+
+.session-list-item, 
+.open-block, 
+.tag-list-item,
+.category-list-item:nth-child(2n+1) {
+  background: white;
+}

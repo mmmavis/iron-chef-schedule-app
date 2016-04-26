@@ -1,36 +1,43 @@
 body {
-  background: #D7D7D9;
+  background: #e6e6e7;
 }
 
 nav {
-  background: #75D087;
+  background: #FFCE34;
 }
 
 #schedule-controls a {
   background: #ADADB1;
-  border-color: #D7D7D9;
+  border-color: #e6e6e7;
 }
 
 #schedule-controls a.active {
-  background: #2E9479;
+  background: #FFCE34;
 }
 
-h2,
 .schedule-tab h3 span, 
 .page-caption h3 span,
 .schedule-tab h3 .fa,
 a.page-control {
-  background: #D7D7D9;
-  color: #2E9479;
+  background: #e6e6e7;
+  color: #000;
+}
+
+h2 {
+  color: #FC913A;
+}
+
+.favorite {
+  color: #FF4E50; 
 }
 
 #page-links a.active {
-  color: #2E9479;
+  color: #FC913A;
 }
 
 .schedule-tab h3::before, 
 .page-caption h3::before {
-  border-color: #2E9479;
+  border-color: #000;
 }
 
 .logo .fa {

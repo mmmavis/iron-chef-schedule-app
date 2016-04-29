@@ -79,7 +79,7 @@
             "start": "10:30 AM", 
             "tags": "Hard", 
             "timeblock": "saturday-morning-block-1--saturday-10-30-", 
-            "title": "lasagna"
+            "title": "Lasagna"
         }, 
         {
             "category": "Italian", 
@@ -96,11 +96,11 @@
             "start": "09:30 AM", 
             "tags": "Intermediate", 
             "timeblock": "sunday-opening---sunday-09-30-", 
-            "title": "tiramisu"
+            "title": "Tiramisu"
         }, 
         {
             "category": "Italian", 
-            "day": "Saturday", 
+            "day": "Sunday", 
             "description": "", 
             "facilitator_array": [
                 "Jamie Oliver", 
@@ -110,10 +110,10 @@
             "id": "5", 
             "link": "", 
             "location": "Room 204", 
-            "start": "10:30 AM", 
+            "start": "", 
             "tags": "Easy, Under 15 mins", 
-            "timeblock": "saturday-morning-block-1--saturday-10-30-", 
-            "title": "microwave pasta"
+            "timeblock": "sunday-13-00--sunday-afternoon-block-1-", 
+            "title": "Microwave pasta"
         }, 
         {
             "category": "Japanese", 
@@ -130,11 +130,11 @@
             "start": "04:30 PM", 
             "tags": "Easy", 
             "timeblock": "saturday-afternoon-block-1--saturday-16-30-", 
-            "title": "kappa roll"
+            "title": "Kappa roll"
         }, 
         {
             "category": "Japanese", 
-            "day": "Saturday", 
+            "day": "Sunday", 
             "description": "", 
             "facilitator_array": [
                 "\n", 
@@ -144,10 +144,10 @@
             "id": "9", 
             "link": "", 
             "location": "Room 100", 
-            "start": "04:30 PM", 
+            "start": "11:00 AM", 
             "tags": "Intermediate, Under 15 mins", 
-            "timeblock": "saturday-afternoon-block-1--saturday-16-30-", 
-            "title": "instant noodles"
+            "timeblock": "sunday-morning-block-1--sunday-11-00-", 
+            "title": "Instant ramen"
         }, 
         {
             "category": "Japanese", 
@@ -164,7 +164,7 @@
             "start": "10:30 AM", 
             "tags": "Easy, Under 15 mins", 
             "timeblock": "saturday-morning-block-1--saturday-10-30-", 
-            "title": "pan-fried egg"
+            "title": "Pan-fried egg"
         }, 
         {
             "category": "Japanese", 
@@ -180,7 +180,7 @@
             "start": "11:00 AM", 
             "tags": "Hard", 
             "timeblock": "sunday-morning-block-1--sunday-11-00-", 
-            "title": "natto"
+            "title": "Natto"
         }
     ], 
     "timeblocks": [
@@ -232,7 +232,7 @@
         {
             "day": "Sunday", 
             "key": "reserved-sunday-closing-dinner--sunday-19-00-", 
-            "order": "3", 
+            "order": "4", 
             "reserved for everyone": "yes", 
             "start time": "19:00 ", 
             "timeblock name": "Sunday Closing Dinner"
@@ -243,6 +243,13 @@
             "order": "2", 
             "start time": "11:00 ", 
             "timeblock name": "Sunday Morning Block 1"
+        }, 
+        {
+            "day": "Sunday", 
+            "key": "sunday-13-00--sunday-afternoon-block-1-", 
+            "order": "3", 
+            "start time": "13:00 ", 
+            "timeblock name": "Sunday Afternoon Block 1"
         }
     ]
 }

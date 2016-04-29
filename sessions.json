@@ -111,19 +111,19 @@
             "link": "", 
             "location": "Room 204", 
             "start": "10:30 AM", 
-            "tags": "Easy, under 15 mins", 
+            "tags": "Easy, Under 15 mins", 
             "timeblock": "saturday-morning-block-1--saturday-10-30-", 
             "title": "microwave pasta"
         }, 
         {
             "category": "Japanese", 
             "day": "Saturday", 
-            "description": "", 
+            "description": "Learn to make cucumber sushi roll!", 
             "facilitator_array": [
                 "Jamie Oliver", 
-                "Gordon Ramsay"
+                "Jiro Ono"
             ], 
-            "facilitators": "Jamie Oliver, Gordon Ramsay", 
+            "facilitators": "Jamie Oliver, Jiro Ono", 
             "id": "8", 
             "link": "", 
             "location": "Room 203", 
@@ -137,15 +137,15 @@
             "day": "Saturday", 
             "description": "", 
             "facilitator_array": [
-                "Jamie Oliver", 
-                "Gordon Ramsay"
+                "\n", 
+                "Super Saiyan Goku"
             ], 
-            "facilitators": "Jamie Oliver, Gordon Ramsay", 
+            "facilitators": "\n, Super Saiyan Goku", 
             "id": "9", 
             "link": "", 
             "location": "Room 100", 
             "start": "04:30 PM", 
-            "tags": "Intermediate, under 15 mins", 
+            "tags": "Intermediate, Under 15 mins", 
             "timeblock": "saturday-afternoon-block-1--saturday-16-30-", 
             "title": "instant noodles"
         }, 
@@ -155,16 +155,32 @@
             "description": "", 
             "facilitator_array": [
                 "Jamie Oliver", 
-                "Gordon Ramsay"
+                "Jiro Ono"
             ], 
-            "facilitators": "Jamie Oliver, Gordon Ramsay", 
+            "facilitators": "Jamie Oliver, Jiro Ono", 
             "id": "10", 
             "link": "", 
             "location": "Room 101", 
             "start": "10:30 AM", 
-            "tags": "Easy, under 15 mins", 
+            "tags": "Easy, Under 15 mins", 
             "timeblock": "saturday-morning-block-1--saturday-10-30-", 
             "title": "pan-fried egg"
+        }, 
+        {
+            "category": "Japanese", 
+            "day": "Sunday", 
+            "description": "Nattō (なっとう or 納豆?) is a traditional Japanese food made from soybeans fermented with Bacillus subtilis var. natto.[1] Some eat it as a breakfast food.[2] It is served with soy sauce, karashi mustard and welsh onion. Nattō may be an acquired taste because of its powerful smell, strong flavor, and slimy texture. In Japan nattō is most popular in the eastern regions, including Kantō, Tōhoku, and Hokkaido.", 
+            "facilitator_array": [
+                "Super Saiyan Goku"
+            ], 
+            "facilitators": "Super Saiyan Goku", 
+            "id": "11", 
+            "link": "", 
+            "location": "Room 203", 
+            "start": "11:00 AM", 
+            "tags": "Hard", 
+            "timeblock": "sunday-morning-block-1--sunday-11-00-", 
+            "title": "natto"
         }
     ], 
     "timeblocks": [

@@ -13,7 +13,7 @@
             "location": "Main Ballroom", 
             "start": "09:00 AM", 
             "tags": "", 
-            "timeblock": "reserved-saturday-registration", 
+            "timeblock": "reserved-saturday-registration--saturday-09-00-", 
             "title": "Registration"
         }, 
         {
@@ -29,7 +29,7 @@
             "location": "McDonald's", 
             "start": "12:30 PM", 
             "tags": "", 
-            "timeblock": "reserved-saturday-lunch", 
+            "timeblock": "reserved-saturday-lunch--saturday-12-30-", 
             "title": "Lunch"
         }, 
         {
@@ -45,7 +45,7 @@
             "location": "Minami", 
             "start": "07:00 PM", 
             "tags": "", 
-            "timeblock": "reserved-saturday-dinner", 
+            "timeblock": "reserved-saturday-dinner--saturday-19-00-", 
             "title": "Dinner"
         }, 
         {
@@ -62,7 +62,7 @@
             "location": "Main Ballroom", 
             "start": "07:00 PM", 
             "tags": "", 
-            "timeblock": "reserved-sunday-closing-dinner", 
+            "timeblock": "reserved-sunday-closing-dinner--sunday-19-00-", 
             "title": "Closing Dinner"
         }, 
         {
@@ -75,10 +75,10 @@
             "facilitators": "Gordon Ramsay", 
             "id": "3", 
             "link": "", 
-            "location": "Room 101", 
+            "location": "Room 100", 
             "start": "10:30 AM", 
             "tags": "Hard", 
-            "timeblock": "saturday-morning-block-1", 
+            "timeblock": "saturday-morning-block-1--saturday-10-30-", 
             "title": "lasagna"
         }, 
         {
@@ -95,7 +95,7 @@
             "location": "Room 204", 
             "start": "09:30 AM", 
             "tags": "Intermediate", 
-            "timeblock": "sunday-opening", 
+            "timeblock": "sunday-opening---sunday-09-30-", 
             "title": "tiramisu"
         }, 
         {
@@ -112,7 +112,7 @@
             "location": "Room 204", 
             "start": "10:30 AM", 
             "tags": "Easy", 
-            "timeblock": "saturday-morning-block-1", 
+            "timeblock": "saturday-morning-block-1--saturday-10-30-", 
             "title": "microwave pasta"
         }, 
         {
@@ -129,7 +129,7 @@
             "location": "Room 203", 
             "start": "04:30 PM", 
             "tags": "Easy", 
-            "timeblock": "saturday-afternoon-block-1", 
+            "timeblock": "saturday-afternoon-block-1--saturday-16-30-", 
             "title": "kappa roll"
         }, 
         {
@@ -146,7 +146,7 @@
             "location": "Room 100", 
             "start": "04:30 PM", 
             "tags": "Intermediate", 
-            "timeblock": "saturday-afternoon-block-1", 
+            "timeblock": "saturday-afternoon-block-1--saturday-16-30-", 
             "title": "instant noodles"
         }, 
         {
@@ -163,14 +163,14 @@
             "location": "Room 101", 
             "start": "10:30 AM", 
             "tags": "Easy", 
-            "timeblock": "saturday-morning-block-1", 
+            "timeblock": "saturday-morning-block-1--saturday-10-30-", 
             "title": "pan-fried egg"
         }
     ], 
     "timeblocks": [
         {
             "day": "Saturday", 
-            "key": "reserved-saturday-registration", 
+            "key": "reserved-saturday-registration--saturday-09-00-", 
             "order": "1", 
             "reserved for everyone": "yes", 
             "start time": "09:00 ", 
@@ -178,14 +178,14 @@
         }, 
         {
             "day": "Saturday", 
-            "key": "saturday-morning-block-1", 
+            "key": "saturday-morning-block-1--saturday-10-30-", 
             "order": "2", 
             "start time": "10:30 ", 
             "timeblock name": "Saturday Morning Block 1"
         }, 
         {
             "day": "Saturday", 
-            "key": "reserved-saturday-lunch", 
+            "key": "reserved-saturday-lunch--saturday-12-30-", 
             "order": "3", 
             "reserved for everyone": "yes", 
             "start time": "12:30 ", 
@@ -193,14 +193,14 @@
         }, 
         {
             "day": "Saturday", 
-            "key": "saturday-afternoon-block-1", 
+            "key": "saturday-afternoon-block-1--saturday-16-30-", 
             "order": "4", 
             "start time": "16:30 ", 
             "timeblock name": "Saturday Afternoon Block 1"
         }, 
         {
             "day": "Saturday", 
-            "key": "reserved-saturday-dinner", 
+            "key": "reserved-saturday-dinner--saturday-19-00-", 
             "order": "5", 
             "reserved for everyone": "yes", 
             "start time": "19:00 ", 
@@ -208,14 +208,14 @@
         }, 
         {
             "day": "Sunday", 
-            "key": "sunday-opening", 
+            "key": "sunday-opening---sunday-09-30-", 
             "order": "1", 
             "start time": "09:30 ", 
             "timeblock name": "Sunday Opening "
         }, 
         {
             "day": "Sunday", 
-            "key": "reserved-sunday-closing-dinner", 
+            "key": "reserved-sunday-closing-dinner--sunday-19-00-", 
             "order": "3", 
             "reserved for everyone": "yes", 
             "start time": "19:00 ", 
@@ -223,7 +223,7 @@
         }, 
         {
             "day": "Sunday", 
-            "key": "sunday-morning-block-1", 
+            "key": "sunday-morning-block-1--sunday-11-00-", 
             "order": "2", 
             "start time": "11:00 ", 
             "timeblock name": "Sunday Morning Block 1"

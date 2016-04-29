@@ -84,7 +84,7 @@
         {
             "category": "Italian", 
             "day": "Sunday", 
-            "description": "", 
+            "description": "Tiramisu (from Italian, spelled tiramisù [tiramiˈsu], meaning \"pick me up\", \"cheer me up\",\"wake me up\" or \"lift me up\") is a popular coffee-flavored Italian dessert. It is made of lady’s fingers (Italian: Savoiardi, [savoˈjardi]) dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese, flavoured with cocoa. The recipe has been adapted into many varieties of cakes and other desserts. Its origins are often disputed among Italian regions such as Veneto, Friuli Venezia Giulia, Piedmont, and others.", 
             "facilitator_array": [
                 "Jamie Oliver", 
                 "Gordon Ramsay"
@@ -137,10 +137,9 @@
             "day": "Sunday", 
             "description": "", 
             "facilitator_array": [
-                "\n", 
                 "Super Saiyan Goku"
             ], 
-            "facilitators": "\n, Super Saiyan Goku", 
+            "facilitators": "Super Saiyan Goku", 
             "id": "9", 
             "link": "", 
             "location": "Room 100", 
@@ -169,7 +168,7 @@
         {
             "category": "Japanese", 
             "day": "Sunday", 
-            "description": "Nattō (なっとう or 納豆?) is a traditional Japanese food made from soybeans fermented with Bacillus subtilis var. natto.[1] Some eat it as a breakfast food.[2] It is served with soy sauce, karashi mustard and welsh onion. Nattō may be an acquired taste because of its powerful smell, strong flavor, and slimy texture. In Japan nattō is most popular in the eastern regions, including Kantō, Tōhoku, and Hokkaido.", 
+            "description": "Nattō (なっとう or 納豆?) is a traditional Japanese food made from soybeans fermented with Bacillus subtilis var. natto. Some eat it as a breakfast food. It is served with soy sauce, karashi mustard and welsh onion. Nattō may be an acquired taste because of its powerful smell, strong flavor, and slimy texture. In Japan nattō is most popular in the eastern regions, including Kantō, Tōhoku, and Hokkaido.", 
             "facilitator_array": [
                 "Super Saiyan Goku"
             ], 
@@ -177,9 +176,9 @@
             "id": "11", 
             "link": "", 
             "location": "Room 203", 
-            "start": "11:00 AM", 
+            "start": "09:30 AM", 
             "tags": "Hard", 
-            "timeblock": "sunday-morning-block-1--sunday-11-00-", 
+            "timeblock": "sunday-opening---sunday-09-30-", 
             "title": "Natto"
         }
     ], 

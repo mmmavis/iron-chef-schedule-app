@@ -79,12 +79,12 @@
             "start": "10:30 AM", 
             "tags": "Hard", 
             "timeblock": "saturday-morning-block-1--saturday-10-30-", 
-            "title": "lasagna"
+            "title": "Lasagna"
         }, 
         {
             "category": "Italian", 
             "day": "Sunday", 
-            "description": "", 
+            "description": "Tiramisu (from Italian, spelled tiramisù [tiramiˈsu], meaning \"pick me up\", \"cheer me up\",\"wake me up\" or \"lift me up\") is a popular coffee-flavored Italian dessert. It is made of lady’s fingers (Italian: Savoiardi, [savoˈjardi]) dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese, flavoured with cocoa. The recipe has been adapted into many varieties of cakes and other desserts. Its origins are often disputed among Italian regions such as Veneto, Friuli Venezia Giulia, Piedmont, and others.", 
             "facilitator_array": [
                 "Jamie Oliver", 
                 "Gordon Ramsay"
@@ -96,11 +96,11 @@
             "start": "09:30 AM", 
             "tags": "Intermediate", 
             "timeblock": "sunday-opening---sunday-09-30-", 
-            "title": "tiramisu"
+            "title": "Tiramisu"
         }, 
         {
             "category": "Italian", 
-            "day": "Saturday", 
+            "day": "Sunday", 
             "description": "", 
             "facilitator_array": [
                 "Jamie Oliver", 
@@ -110,44 +110,43 @@
             "id": "5", 
             "link": "", 
             "location": "Room 204", 
-            "start": "10:30 AM", 
-            "tags": "Easy", 
-            "timeblock": "saturday-morning-block-1--saturday-10-30-", 
-            "title": "microwave pasta"
+            "start": "", 
+            "tags": "Easy, Under 15 mins", 
+            "timeblock": "sunday-13-00--sunday-afternoon-block-1-", 
+            "title": "Microwave pasta"
         }, 
         {
             "category": "Japanese", 
             "day": "Saturday", 
-            "description": "", 
+            "description": "Learn to make cucumber sushi roll!", 
             "facilitator_array": [
                 "Jamie Oliver", 
-                "Gordon Ramsay"
+                "Jiro Ono"
             ], 
-            "facilitators": "Jamie Oliver, Gordon Ramsay", 
+            "facilitators": "Jamie Oliver, Jiro Ono", 
             "id": "8", 
             "link": "", 
             "location": "Room 203", 
             "start": "04:30 PM", 
             "tags": "Easy", 
             "timeblock": "saturday-afternoon-block-1--saturday-16-30-", 
-            "title": "kappa roll"
+            "title": "Kappa roll"
         }, 
         {
             "category": "Japanese", 
-            "day": "Saturday", 
+            "day": "Sunday", 
             "description": "", 
             "facilitator_array": [
-                "Jamie Oliver", 
-                "Gordon Ramsay"
+                "Super Saiyan Goku"
             ], 
-            "facilitators": "Jamie Oliver, Gordon Ramsay", 
+            "facilitators": "Super Saiyan Goku", 
             "id": "9", 
             "link": "", 
             "location": "Room 100", 
-            "start": "04:30 PM", 
-            "tags": "Intermediate", 
-            "timeblock": "saturday-afternoon-block-1--saturday-16-30-", 
-            "title": "instant noodles"
+            "start": "11:00 AM", 
+            "tags": "Intermediate, Under 15 mins", 
+            "timeblock": "sunday-morning-block-1--sunday-11-00-", 
+            "title": "Instant ramen"
         }, 
         {
             "category": "Japanese", 
@@ -155,16 +154,32 @@
             "description": "", 
             "facilitator_array": [
                 "Jamie Oliver", 
-                "Gordon Ramsay"
+                "Jiro Ono"
             ], 
-            "facilitators": "Jamie Oliver, Gordon Ramsay", 
+            "facilitators": "Jamie Oliver, Jiro Ono", 
             "id": "10", 
             "link": "", 
             "location": "Room 101", 
             "start": "10:30 AM", 
-            "tags": "Easy", 
+            "tags": "Easy, Under 15 mins", 
             "timeblock": "saturday-morning-block-1--saturday-10-30-", 
-            "title": "pan-fried egg"
+            "title": "Pan-fried egg"
+        }, 
+        {
+            "category": "Japanese", 
+            "day": "Sunday", 
+            "description": "Nattō (なっとう or 納豆?) is a traditional Japanese food made from soybeans fermented with Bacillus subtilis var. natto. Some eat it as a breakfast food. It is served with soy sauce, karashi mustard and welsh onion. Nattō may be an acquired taste because of its powerful smell, strong flavor, and slimy texture. In Japan nattō is most popular in the eastern regions, including Kantō, Tōhoku, and Hokkaido.", 
+            "facilitator_array": [
+                "Super Saiyan Goku"
+            ], 
+            "facilitators": "Super Saiyan Goku", 
+            "id": "11", 
+            "link": "", 
+            "location": "Room 203", 
+            "start": "09:30 AM", 
+            "tags": "Hard", 
+            "timeblock": "sunday-opening---sunday-09-30-", 
+            "title": "Natto"
         }
     ], 
     "timeblocks": [
@@ -216,7 +231,7 @@
         {
             "day": "Sunday", 
             "key": "reserved-sunday-closing-dinner--sunday-19-00-", 
-            "order": "3", 
+            "order": "4", 
             "reserved for everyone": "yes", 
             "start time": "19:00 ", 
             "timeblock name": "Sunday Closing Dinner"
@@ -227,6 +242,13 @@
             "order": "2", 
             "start time": "11:00 ", 
             "timeblock name": "Sunday Morning Block 1"
+        }, 
+        {
+            "day": "Sunday", 
+            "key": "sunday-13-00--sunday-afternoon-block-1-", 
+            "order": "3", 
+            "start time": "13:00 ", 
+            "timeblock name": "Sunday Afternoon Block 1"
         }
     ]
 }
